@@ -33,7 +33,9 @@ help(cor)
 
 # wprowadzenie wartości zmiennych x2 oraz y2
 x2 = c(9,16,11,12,11,9,14,9,10,9)
+# x2 = c(19,19,16,13,15,17,13) #[ver2 (1-2)]
 y2 = c(42,49,46,44,49,45,50,48,52,54)
+# y2 = c(58,60,59,65,61,57,67) #[ver2 (2-2)]
 
 # obliczenie współczynnika korelacji, jaka wychodzi pomiędzy 2 zmiennymi (x2, y2)
 cor(x2,y2)
